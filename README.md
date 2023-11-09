@@ -3,7 +3,8 @@
 <!--  -->
 
 <p align="center">
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fast+Context+Switcher,;Front-End+Developer,;Active+Learner,;Nature+Enjoyer,;Gaming+Enthusiast...)](https://git.io/typing-svg)
+	<img src="https://readme-typing-svg.demolab.com/?lines=Fast+Context+Switcher,;Front-End+Developer,;Active+Learner,;Nature+Enjoyer,;Gaming+Enthusiast...)](https://git.io/typing-svg" />
+ 
  </p>
 
 
