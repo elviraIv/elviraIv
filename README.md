@@ -2,8 +2,9 @@
 <h1 align="center"><b>Welcome, I'm Elvira. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
-
+<p align="center">
  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fast+Context+Switcher,;Front-End+Developer,;Active+Learner,;Nature+Enjoyer,;Gaming+Enthusiast...)](https://git.io/typing-svg)
+ </p>
 
 
 
