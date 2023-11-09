@@ -5,10 +5,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Fast+Context+Switcher,;Front-End+Developer,;Active+Learner,;Nature+Enjoyer,;Gaming+Enthusiast...)](https://git.io/typing-svg" />
  </p>
+<br>
+	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
  - Enjoys using software as a solution for problems;
