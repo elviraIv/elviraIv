@@ -2,7 +2,7 @@
 <h1 align="center"><b>Welcome, I'm Elvira. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </p>
 
- <span style="color:#9FB3FF;">⚡  Fast Context Switcher<-> Frontend Developer <-> Nature Lover <-> Gaming Enthusiast
+ <span style="color:#9FB3FF;">⚡  Fast Context Switcher<-> Frontend Developer <-> Nature Lover
  > </span>
  
 
