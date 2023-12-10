@@ -14,6 +14,7 @@
 <span style="color:#9FB3FF;">
 
  > </span>
+ 
 
  - Enjoys using software as a solution for problems;
 -  Enjoys solving codewars 'katas';
